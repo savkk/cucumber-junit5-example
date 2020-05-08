@@ -1,0 +1,1 @@
+Cucumber 5 + JUnit 5 + Allure example
